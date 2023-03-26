@@ -7,7 +7,7 @@ automobile:targa, nPosti, foto, capienzaBagagliaio, .
 
 Citta:Nome,cap
 
-Viaggio:partenza, Destinazione,data, id_passeggero
+Dati_ Viaggio:partenza, Destinazione,data, id_passeggero
 
 ass prenotazioni:id_prenotazione, id_viaggio,id_passeggero, validato.
 
